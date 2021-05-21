@@ -4,3 +4,6 @@
 [submodule "my_plugins/rust.vim"]
 	path = my_plugins/rust.vim
 	url = https://github.com/rust-lang/rust.vim.git
+[submodule "my_plugins/YouCompleteMe"]
+	path = my_plugins/YouCompleteMe
+	url = git@github.com:ycm-core/YouCompleteMe.git
